@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 11 Jan 2018 02:30:28 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[California mudslides death toll rises with 13 still missing]]></title>
+            <description><![CDATA[Rescuers are scouring the rubble of more than 100 destroyed homes following the devastating deluge.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42638111</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42638111</guid>
+            <pubDate>Thu, 11 Jan 2018 00:11:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D416/production/_99549245_hi043939881.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YouTube cuts ties with vlogger over Japan suicide video]]></title>
+            <description><![CDATA[Logan Paul loses business deals after posting a video showing an apparent suicide victim in Japan.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-42644321</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-42644321</guid>
+            <pubDate>Thu, 11 Jan 2018 02:01:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/105BC/production/_99440076_loganpaul.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Trump says US 'could conceivably' rejoin Paris deal]]></title>
+            <description><![CDATA[The US president says he has no problem with the climate agreement, just the US part of the deal.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42642331</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42642331</guid>
+            <pubDate>Thu, 11 Jan 2018 00:51:30 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/1316E/production/_96309187_mediaitem96309186.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alps snowfall: Trains reach tourists stranded in Zermatt]]></title>
+            <description><![CDATA[Freak heavy snowfall meant workers also had to cut a huge snow corridor to reach one French village.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-42642322</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-42642322</guid>
+            <pubDate>Wed, 10 Jan 2018 19:26:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13E1A/production/_99543418_snow2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ritz Paris robbery: Jewellery worth millions seized in armed heist]]></title>
+            <description><![CDATA[Five men reportedly smashed a window at the luxurious hotel and grabbed jewellery.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-42643176</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-42643176</guid>
+            <pubDate>Wed, 10 Jan 2018 22:08:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/168E0/production/_99548329_hi043959583.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Light shed on mystery space radio pulses]]></title>
+            <description><![CDATA[Astronomers have fresh insight on a mysterious source of recurring radio pulses from space.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-42614401</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-42614401</guid>
+            <pubDate>Wed, 10 Jan 2018 18:48:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CBB0/production/_99544125_r1600314-subreflector_of_the_arecibo_radio_telescope-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US tourist dies on popular hike in outback Australia]]></title>
+            <description><![CDATA[The US man took a wrong turn on a popular track amid extreme heat, authorities say.]]></description>
+            <link>http://www.bbc.co.uk/news/world-australia-42643624</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-australia-42643624</guid>
+            <pubDate>Wed, 10 Jan 2018 23:52:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7336/production/_99549492_gettyimages-860306480.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CES 2018: Power cut at Vegas tech show blamed on rain]]></title>
+            <description><![CDATA[Attendees were evacuated from an area hosting Samsung, LG and Sony at the giant Las Vegas trade fair.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42639780</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42639780</guid>
+            <pubDate>Wed, 10 Jan 2018 22:14:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/131F4/production/_99542387_mediaitem99542382.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Botswana shuts 'miracle' pastor Shepherd Bushiri's church]]></title>
+            <description><![CDATA[Shepherd Bushiri is known around Africa for his "miracles" - including appearing to walk on air.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-42634112</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-42634112</guid>
+            <pubDate>Wed, 10 Jan 2018 13:59:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/122CB/production/_99534447_prophet.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran protests: US urges release of 'peaceful' demonstrators]]></title>
+            <description><![CDATA[The Trump administration says it is "deeply concerned" that Iran has imprisoned thousands of people.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-42643654</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-42643654</guid>
+            <pubDate>Wed, 10 Jan 2018 22:16:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/765D/production/_99510303_2a07d8a4-756c-44dd-8c1c-63802cf00d57.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia bans foreign adoptions]]></title>
+            <description><![CDATA[Brad Pitt and Angelina Jolie are among thousands of US citizens to have adopted Ethiopian children.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-42635641</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-42635641</guid>
+            <pubDate>Wed, 10 Jan 2018 16:58:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A26F/production/_99538514_gettyimages-467961828.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Washington renames Russian embassy street after slain opposition MP]]></title>
+            <description><![CDATA[Washington DC renames the street Russia's embassy is on after murdered Putin critic Boris Nemtsov.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42640239</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42640239</guid>
+            <pubDate>Wed, 10 Jan 2018 16:54:10 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/17C22/production/_99541379_mediaitem99541378.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria shelling: 'They used to tell me I was beautiful']]></title>
+            <description><![CDATA[One shell in Syria can change a life forever. Meet the Syrian girls who just want to be beautiful again.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-42627451</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-42627451</guid>
+            <pubDate>Thu, 11 Jan 2018 00:19:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/136EA/production/_99549597_mediaitem99548575.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The teenager living under siege in Syria]]></title>
+            <description><![CDATA[Fifteen-year-old Muhammed lives in the rebel-held area of Eastern Ghouta.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-42630276</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-42630276</guid>
+            <pubDate>Wed, 10 Jan 2018 14:50:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/753E/production/_99541003_mediaitem99541000.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Californian mudslides: 'Like a World War I battlefield’]]></title>
+            <description><![CDATA[A distraught mudslide survivor tells how he pulled a baby from under four feet of debris.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42630378</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42630378</guid>
+            <pubDate>Wed, 10 Jan 2018 03:39:55 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/6F08/production/_99542482_rescuer.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands stranded in Swiss ski resort]]></title>
+            <description><![CDATA[More than 13,000 tourists are stranded in the alpine resort of Zermatt, after heavy snow cut off towns and villages across Switzerland, France and Italy.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-42643206</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-42643206</guid>
+            <pubDate>Wed, 10 Jan 2018 20:07:13 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11034/production/_99548696_p05tg9gk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oprah Winfrey: From TV host to president?]]></title>
+            <description><![CDATA[After Oprah Winfrey's passionate speech at this year's Golden Globes, some have suggested she might run for the White House.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42643076</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42643076</guid>
+            <pubDate>Wed, 10 Jan 2018 19:20:15 GMT</pubDate>
+            <media:thumbnail width="464" height="261" url="http://c.files.bbci.co.uk/CBD8/production/_99548125_p05tfvwx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A marine biologist says a humpback whale saved her from a shark]]></title>
+            <description><![CDATA[A marine biologist says a humpback whale saved her from a shark during a recent research expedition]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-42630468</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-42630468</guid>
+            <pubDate>Wed, 10 Jan 2018 00:03:47 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/E171/production/_99531775_p05tc84j.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How this US teacher ended up in handcuffs]]></title>
+            <description><![CDATA[It was a normal school board meeting in Louisiana - so how did a teacher end up being taken to jail?]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42629880</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42629880</guid>
+            <pubDate>Tue, 09 Jan 2018 23:24:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/0A8F/production/_99530720_p05tbz59.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syrian shoe-shine refugee photo wins Turkish hearts]]></title>
+            <description><![CDATA[A photograph of a Syrian refugee gazing into a gym has resulted in a free lifetime membership]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-trending-42633161</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-trending-42633161</guid>
+            <pubDate>Wed, 10 Jan 2018 15:15:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1EE0/production/_99540970_c4d6ae7e-167c-4bff-a14c-dd411854aecc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Bored' Russian man crashes armoured vehicle into shop]]></title>
+            <description><![CDATA[Suspect reportedly stole a bottle of wine after destroying the front of a supermarket]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-42634753</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-42634753</guid>
+            <pubDate>Wed, 10 Jan 2018 11:56:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10CF5/production/_99535886_0000-1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rape victims' clothing on display at Belgian exhibition]]></title>
+            <description><![CDATA[Organisers hope to dispel the myth that provocative clothing is a factor in sexual crimes.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-42633751</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-42633751</guid>
+            <pubDate>Wed, 10 Jan 2018 10:51:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/97C5/production/_99535883_3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese dating apps closed after women revealed to be robots]]></title>
+            <description><![CDATA[Thousands in China have been defrauded on dating websites after sending money to robots they believed to be women.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-42609353</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-42609353</guid>
+            <pubDate>Mon, 08 Jan 2018 13:10:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3CF1/production/_99510651_untitled.png"/>
+        </item>
+        <item>
+            <title><![CDATA[North Korea opens new ski resort amid Olympic optimism]]></title>
+            <description><![CDATA[Country opens its second winter sports complex amid talks to attend Winter Olympics.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-42579485</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-42579485</guid>
+            <pubDate>Fri, 05 Jan 2018 14:53:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/85AA/production/_99481243_gettyimages-672580516.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What will Donald Trump's medical reveal?]]></title>
+            <description><![CDATA[Donald Trump will have his first presidential medical on Friday - and there could be good and bad news.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42614426</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42614426</guid>
+            <pubDate>Wed, 10 Jan 2018 19:47:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/112F0/production/_99548307_trumps_medical_640-nc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cheese, Marmite and PG Tips: Barnier's hamper treat from Brexiteers]]></title>
+            <description><![CDATA[Brexiteers present Michel Barnier with cheese, gin and the complete works of Shakespeare.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-42633478</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-42633478</guid>
+            <pubDate>Wed, 10 Jan 2018 17:09:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15FCF/production/_99536009_hamper-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World trade: What will Donald Trump do?]]></title>
+            <description><![CDATA[Of all the questions hanging over world trade in 2018, none loom larger than Donald Trump's attitude to it.]]></description>
+            <link>http://www.bbc.co.uk/news/business-42571838</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-42571838</guid>
+            <pubDate>Thu, 11 Jan 2018 00:04:33 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2EEE/production/_99541021_gettyimages-901869368.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The tricks Iranians use to bypass social-media blocks]]></title>
+            <description><![CDATA[In Iran, many ordinary citizens are engaged in a battle of wits as the authorities block popular apps and social media services.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-trending-42612546</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-trending-42612546</guid>
+            <pubDate>Wed, 10 Jan 2018 02:28:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AADD/production/_99414734_e892e99e-d9bb-43c8-8378-8982700a587a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Space travel: Here's what happens to the human body]]></title>
+            <description><![CDATA[Height growth, back problems and muscle wastage are just some symptoms astronauts expect to see.]]></description>
+            <link>http://www.bbc.co.uk/news/world-42627341</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-42627341</guid>
+            <pubDate>Wed, 10 Jan 2018 05:06:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14C79/production/_99531158_gettyimages-548979711.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Czech election: The politically incorrect president dividing a nation]]></title>
+            <description><![CDATA[The outcome of the Czech presidential election may determine the country's course for years to come.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-42619538</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-42619538</guid>
+            <pubDate>Wed, 10 Jan 2018 02:35:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10038/production/_99529556_gettyimages-547464268.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pill shortage triggers rise in teenage pregnancies]]></title>
+            <description><![CDATA[With contraceptive pills hard to come by and prices for condoms sky-high more girls get pregnant.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-42620379</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-42620379</guid>
+            <pubDate>Wed, 10 Jan 2018 02:23:11 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1470/production/_99523250_darnellysandson.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is it true only 10% of Americans have passports?]]></title>
+            <description><![CDATA[The myth that only 10% of Americans have passports hasn't been true for more than 20 years.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-42586638</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-42586638</guid>
+            <pubDate>Tue, 09 Jan 2018 23:03:56 GMT</pubDate>
+            <media:thumbnail width="1200" height="675" url="http://c.files.bbci.co.uk/1589D/production/_99512288_passportpic.jpg"/>
+        </item>
+    </channel>
+</rss>
